@@ -8,7 +8,7 @@ WordPress Chinese UI / WordPress 中文
 ## 主题
 更多中文主题开发中...
 
-## Licence
+## LICENSE
 MIT License
 
 Copyright (c) 2017 Shelley Shyan

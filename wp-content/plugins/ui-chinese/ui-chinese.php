@@ -51,3 +51,6 @@ if ( is_admin() ) {
 } else {
     add_action( 'wp_head', 'ui_cn_wp' );
 }
+
+// customize.php only
+add_action('customize_controls_print_scripts', 'ui_cn_admin');
